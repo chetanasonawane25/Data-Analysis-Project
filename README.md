@@ -49,4 +49,8 @@ The analysis used the following datasets:
 ---
 
 ## Repository Structure
+Project/ │ ├── README.md # Overview, findings, and recommendations ├── analysis.py # Python script for the analysis ├── visualizations/ # Folder with generated charts ├── data/ # Sanitized CSV files (if applicable) └── requirements.txt # Python dependencies
+
+
+
 
