@@ -49,7 +49,17 @@ The analysis used the following datasets:
 ---
 
 ## Repository Structure
-Project/ │ ├── README.md # Overview, findings, and recommendations ├── analysis.py # Python script for the analysis ├── visualizations/ # Folder with generated charts ├── data/ # Sanitized CSV files (if applicable) └── requirements.txt # Python dependencies
+Project/
+│
+├── README.md               # Project overview, analysis summary, and findings
+├── analysis.py             # Python code for data analysis
+├── visualizations/         # Folder containing generated visualizations
+│   ├── scatterplot.png     # Scatterplot of cooking sessions vs. orders
+│   ├── top_dishes.png      # Bar chart of top 3 dishes
+│   └── demographics.png    # Bar chart of demographic analysis
+├──Data Analyst Intern Assignment - Excel.xlsx
+└── requirements.txt        # Dependencies for the project
+
 
 
 
